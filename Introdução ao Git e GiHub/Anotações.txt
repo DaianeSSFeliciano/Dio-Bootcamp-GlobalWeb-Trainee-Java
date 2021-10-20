@@ -10,3 +10,8 @@ git push
 git status
 command git checkout -b <branch-name>
 git remote –v
+
+***Referências ***
+https://git-scm.com/book/pt-br/v2
+**GitFlow**
+https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
