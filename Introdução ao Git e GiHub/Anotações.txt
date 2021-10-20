@@ -1,0 +1,12 @@
+*** Comandos Básicos de GIT***
+git config --global user.email // configurar e-mail
+git remote add origin
+git init
+git add
+git clone 
+git commit –m “coloque sua mensagem aqui”
+git pull
+git push
+git status
+command git checkout -b <branch-name>
+git remote –v
