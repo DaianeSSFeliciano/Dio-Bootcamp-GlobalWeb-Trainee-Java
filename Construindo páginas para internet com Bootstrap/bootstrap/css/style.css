@@ -1,0 +1,51 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color:rgb(99, 3, 177);
+    
+}
+.navbar ul li a {
+    background-color: rgb(159, 130, 238);
+    border-radius: 10px;
+    margin-left: 10px;
+    
+}
+
+.img-bo {
+    border-radius: 50%;
+}
+
+.quem-somos {
+    background-color: rgb(109, 55, 202);
+    color: rgb(32, 35, 36);
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiro {
+    background-color: rgb(107, 59, 190);
+}
+.servicos {
+    background-color: rgb(111, 61, 197);
+}
+.bg-footer {
+    background-color:rgb(111, 21, 185);
+   
+}
+p {
+    
+    border-radius: 5px;
+    color: thistle;
+    
+
+}
+
+h3 {
+    background-color:rgb(99, 3, 177);
+    border-radius: 5px;
+    color: thistle;
+}
+
